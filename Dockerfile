@@ -11,8 +11,4 @@ RUN npm run build-prod
 
 EXPOSE 3000
 
-COPY static ./static
-
 CMD ["npx", "tsx", "src/server/Server.ts"]
-
-
