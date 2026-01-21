@@ -7,8 +7,8 @@ RUN npm ci
 
 COPY . .
 
-RUN npm run build-prod
-RUN mkdir -p static && cp index.html static/index.html
+# ★ ここが重要：本番ビルドして dist を static にコピー
+RUN npm run build-prod && mkdir -p static && cp -r dist/* static/
 
 EXPOSE 3000
 
