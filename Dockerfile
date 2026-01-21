@@ -7,8 +7,8 @@ RUN npm ci
 
 COPY . .
 
-# ★ ここが重要：本番ビルドして dist を static にコピー
-RUN npm run build-prod && mkdir -p static && cp -r dist/* static/
+# ★ OpenFrontIO は static/ に直接ビルドするので cp は不要
+RUN npm run build-prod
 
 EXPOSE 3000
 
