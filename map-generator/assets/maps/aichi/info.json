@@ -2,32 +2,32 @@
   "name": "Aichi",
   "nations": [
     {
-      "coordinates": [539, 370],
+      "coordinates": [719, 493],
       "name": "Nagoya",
       "flag": "ja"
     },
     {
-      "coordinates": [833, 511],
+      "coordinates": [1111, 681],
       "name": "Toyota",
       "flag": "jp"
     },
     {
-      "coordinates": [550, 651],
+      "coordinates": [733, 868],
       "name": "Handa",
       "flag": "jp"
     },
     {
-      "coordinates": [734, 640],
+      "coordinates": [979, 853],
       "name": "Okazaki",
       "flag": "jp"
     },
     {
-      "coordinates": [819, 734],
+      "coordinates": [1092, 979],
       "name": "Gamagori",
       "flag": "jp"
     },
     {
-      "coordinates": [959, 801],
+      "coordinates": [1279, 1068],
       "name": "Toyohashi",
       "flag": "jp"
     }
