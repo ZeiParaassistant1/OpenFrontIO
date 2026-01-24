@@ -2348,7 +2348,27 @@
   },
   {
     "code": "Toyota",
-    "continent": "Asia",
+    "continent": "Japan",
     "name": "Toyota"
+  },
+  {
+    "code": "Handa",
+    "continent": "Japan",
+    "name": "Handa"
+  },
+  {
+    "code": "Nagoya",
+    "continent": "Japan",
+    "name": "Nagoya"
+  },
+  {
+    "code": "Okazaki",
+    "continent": "Japan",
+    "name": "Okazaki"
+  },
+  {
+    "code": "Toyohashi",
+    "continent": "Japan",
+    "name": "Toyohashi"
   }
 ]
