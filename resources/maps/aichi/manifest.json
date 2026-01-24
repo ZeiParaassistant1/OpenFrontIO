@@ -18,32 +18,32 @@
   "nations": [
     {
       "name": "Nagoya",
-      "flag": "jp",
+      "flag": "Nagoya",
       "coordinates": [719, 493]
     },
     {
       "name": "Toyota",
-      "flag": "jp",
+      "flag": "Toyota",
       "coordinates": [1111, 681]
     },
     {
       "name": "Handa",
-      "flag": "jp",
+      "flag": "Handa",
       "coordinates": [733, 868]
     },
     {
       "name": "Okazaki",
-      "flag": "jp",
+      "flag": "Okazaki",
       "coordinates": [979, 853]
     },
     {
       "name": "Gamagori",
-      "flag": "jp",
+      "flag": "Gamagori",
       "coordinates": [1092, 979]
     },
     {
       "name": "Toyohashi",
-      "flag": "jp",
+      "flag": "Toyohashi",
       "coordinates": [1279, 1068]
     }
   ]
