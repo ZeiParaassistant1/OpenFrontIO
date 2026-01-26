@@ -1,4 +1,4 @@
-# 📦 **OpenFront v24 チェンジログ（日本語版）**
+# 📦 **OpenFront v24 チェンジログ **
 
 ## ⚖️ **バランス調整**
 
@@ -502,3 +502,19 @@
 - @g-santos-m made their first contribution in https://github.com/openfrontio/OpenFrontIO/pull/1420
 
 **Full Changelog**: https://github.com/openfrontio/OpenFrontIO/compare/v0.23.19...v0.24.0
+
+
+
+# 📦 **OpenFront-ZP v1.10.10 チェンジログ **
+
+## 🗺️ **追加マップ**
+
+- 愛知県
+
+## 旗 **追加旗**
+
+- 豊田市
+- 半田市
+- 名古屋市
+- 豊橋市
+- 岡崎市
